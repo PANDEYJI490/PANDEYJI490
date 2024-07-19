@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pawan kumawat
 - 👀 I’m interested in learn new technology
-- 🌱 I’m currently learning advance java language
+- 🌱 I’m currently learning Flutter ,Dart language
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me @pandeyji490(instagram)
 
